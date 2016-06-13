@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<plan>
+  <wall>
+    <position>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </position>
+    <width>2</width>
+    <length>50</length>
+    <heigth>20</heigth>
+    <window bool="True"> 
+      <position>
+        <x>20</x>
+        <y>5</y>
+        <z>0</z>
+      </position>
+      <length>20</length>
+      <heigth>10</heigth>
+    </window>
+  </wall>
+  <wall>
+    <position>
+      <x>0</x>
+      <y>0</y>
+      <z>30</z>
+    </position>
+    <width>2</width>
+    <length>50</length>
+    <heigth>20</heigth>
+    <window bool="False"></window>
+  </wall>
+</plan>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

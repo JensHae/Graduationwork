@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<plan>
+  <walls>
+    <wall id="0">
+      <position>
+        <x>-14</x>
+        <y>0</y>
+        <z>-38</z>
+      </position>
+      <width>52</width>
+      <length>2</length>
+      <heigth>30</heigth>
+    </wall>
+    <wall id="1">
+      <position>
+        <x>38</x>
+        <y>0</y>
+        <z>-38</z>
+      </position>
+      <length>66</length>
+      <width>2</width>
+      <heigth>30</heigth>
+    </wall>
+    <wall id="2">
+      <position>
+        <x>-12</x>
+        <y>0</y>
+        <z>26</z>
+      </position>
+      <length>2</length>
+      <width>50</width>
+      <heigth>30</heigth>
+    </wall>
+    <wall id="3">
+      <position>
+        <x>-14</x>
+        <y>0</y>
+        <z>26</z>
+      </position>
+      <length>40</length>
+      <width>2</width>
+      <heigth>30</heigth>
+    </wall>
+    <wall id="4">
+      <position>
+        <x>-64</x>
+        <y>0</y>
+        <z>64</z>
+      </position>
+      <length>2</length>
+      <width>50</width>
+      <heigth>30</heigth>
+    </wall>
+    <wall id="5">
+      <position>
+        <x>-66</x>
+        <y>0</y>
+        <z>26</z>
+      </position>
+      <length>40</length>
+      <width>2</width>
+      <heigth>30</heigth>
+    </wall>
+    <wall id="6">
+      <position>
+        <x>-84</x>
+        <y>0</y>
+        <z>24</z>
+      </position>
+      <length>2</length>
+      <width>20</width>
+      <heigth>30</heigth>
+    </wall>
+    <wall id="7">
+      <position>
+        <x>-84</x>
+        <y>0</y>
+        <z>-26</z>
+      </position>
+      <length>50</length>
+      <width>2</width>
+      <heigth>30</heigth>
+    </wall>
+    <wall id="8">
+      <position>
+        <x>-84</x>
+        <y>0</y>
+        <z>-28</z>
+      </position>
+      <length>2</length>
+      <width>50</width>
+      <heigth>30</heigth>
+    </wall>
+    <wall id="9">
+      <position>
+        <x>-36</x>
+        <y>0</y>
+        <z>-26</z>
+      </position>
+      <length>40</length>
+      <width>2</width>
+      <heigth>30</heigth>
+    </wall>
+    <wall id="10">
+      <position>
+        <x>-34</x>
+        <y>0</y>
+        <z>12</z>
+      </position>
+      <length>2</length>
+      <width>20</width>
+      <heigth>30</heigth>
+    </wall>
+    <wall id="11">
+      <position>
+        <x>-14</x>
+        <y>0</y>
+        <z>-36</z>
+      </position>
+      <length>50</length>
+      <width>2</width>
+      <heigth>30</heigth>
+    </wall>
+  </walls>
+  <windows>
+    <window wallId="0">
+      <position>
+        <x>-9</x>
+        <y>14</y>
+        <z>-39</z>
+      </position>
+      <width>22</width>
+      <length>3</length>
+      <heigth>9</heigth>
+    </window>
+    <window wallId="1">
+      <position>
+        <x>37</x>
+        <y>7</y>
+        <z>-27</z>
+      </position>
+      <width>3</width>
+      <length>22</length>
+      <heigth>14</heigth>
+    </window>
+    <window wallId="3">
+      <position>
+        <x>-14</x>
+        <y>3</y>
+        <z>33</z>
+      </position>
+      <length>23</length>
+      <width>3</width>
+      <heigth>4</heigth>
+    </window>
+    <window wallId="4">
+      <position>
+        <x>-59</x>
+        <y>24</y>
+        <z>63</z>
+      </position>
+      <length>3</length>
+      <width>28</width>
+      <heigth>5</heigth>
+    </window>  
+  	<window wallId="7">
+      <position>
+        <x>-84</x>
+        <y>2</y>
+        <z>1</z>
+      </position>
+      <length>9</length>
+      <width>2</width>
+      <heigth>23</heigth>
+    </window>
+    <window wallId="7">
+      <position>
+        <x>-84</x>
+        <y>2</y>
+        <z>-10</z>
+      </position>
+      <length>9</length>
+      <width>3</width>
+      <heigth>23</heigth>
+    </window>
+    <window wallId="7">
+      <position>
+        <x>-84</x>
+        <y>2</y>
+        <z>-22</z>
+      </position>
+      <length>9</length>
+      <width>3</width>
+      <heigth>23</heigth>
+    </window>
+    <window wallId="8">
+      <position>
+        <x>-75</x>
+        <y>4</y>
+        <z>-29</z>
+      </position>
+      <length>3</length>
+      <width>36</width>
+      <heigth>20</heigth>
+    </window>
+    <window wallId="10">
+      <position>
+        <x>-30</x>
+        <y>2</y>
+        <z>11</z>
+      </position>
+      <length>3</length>
+      <width>13</width>
+      <heigth>26</heigth>
+    </window>
+  </windows>
+</plan>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
